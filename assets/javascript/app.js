@@ -13,7 +13,7 @@ $(document).ready(function () {
     // Variable to reference the database.
     var database = firebase.database();
 
-    // Variables 
+    // Variables for train
     var name;
     var destination;
     var firstTrain;
